@@ -1,3 +1,5 @@
 # xoloti
 Firmware for flipperzero - Unleashing hidden 
-No AI Code Involved
+
+
+- Zero No AI Code Involved
